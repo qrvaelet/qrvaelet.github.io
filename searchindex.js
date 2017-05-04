@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["README","index"],envversion:51,filenames:["README.md","index.rst"],objects:{},objnames:{},objtypes:{},terms:{githubio_test:0,index:1,modul:1,page:1,search:1},titles:["&lt;no title&gt;","Welcome to the unofficial NixOS documentation!"],titleterms:{document:1,indic:1,nixo:1,tabl:1,unoffici:1,welcom:1}})
